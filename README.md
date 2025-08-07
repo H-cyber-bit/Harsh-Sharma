@@ -73,7 +73,7 @@ Here are some of the projects I’ve built as a student to apply what I’ve lea
 | 🛒 **Maven Market Insights Analysis Dashboard (Power BI)** | Analyzed seasonal demand, segmentation, and profit margins using DAX and slicers |
 | 🤖 **Human Activity Recognition (ML - Python)** | Classified physical activities from wearable sensor data using Logistic Regression, Random Forest, and kNN |
 | 💡 **Smart Room Light System (IoT)** | Automated lighting system using Arduino, motion sensors, and ambient light detection |
-| 📝 **Faculty Feedback System ** | Feedback system with admin, faculty, and student panels – developed using core web technologies |
+| 📝   Faculty Feedback System  | Feedback system with admin, faculty, and student panels – developed using core web technologies |
 
 > 🔗 More projects and hosted demos coming soon…
 
