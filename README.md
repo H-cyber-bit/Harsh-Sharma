@@ -21,7 +21,7 @@
 
 - 📧 harsh201130@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-sharma-354379294/)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
+- 🌐 [Resume](https://drive.google.com/file/d/1WLedVW24tLkYQwl3kFrjwM9WqLiNp5ep/view?usp=sharing) 
 
 ---
 
