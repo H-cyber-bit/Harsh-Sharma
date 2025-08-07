@@ -64,15 +64,20 @@
 
 ## 📁 Featured Projects
 
+Here are some of the projects I’ve built as a student to apply what I’ve learned 👇
+
 | Project | Description |
 |--------|-------------|
-| 🧘‍♂️ **Live With Yog App** *(Top 100 - GDSC Challenge)* | Designed a yoga & health UI app in Figma, later prototyped in Flutter |
-| 🍕 **Pizza Sales Dashboard** | Power BI report with category-wise revenue, KPIs, and top-selling SKUs |
-| 🤖 **Human Activity Recognition** | Used Python + ML models to classify activity from wearable sensor data |
-| 💡 **Smart Room Light System** | IoT project using Arduino and sensors for motion-based lighting |
-| 📝 **Faculty Feedback System** | PHP/MySQL-based platform for student-faculty-admin feedback exchange |
+| 🧘‍♂️ **Live With Yog App** *(Top 100 – GDSC Solution Challenge)* | Designed a yoga & wellness app UI in Figma, later prototyped in Flutter with test users |
+| 🍕 **Pizza Sales Dashboard (Power BI)** | Uncovered top-selling SKUs, peak hours, and revenue drivers using interactive visualizations |
+| 🌍 **Export Sales Dashboard (Power BI)** | Visualized $9.6M revenue data from JSON with YoY growth, KPIs, and global sales trends |
+| 🛒 **Supermarket Insights Dashboard (Power BI)** | Analyzed seasonal demand, segmentation, and profit margins using DAX and slicers |
+| 🤖 **Human Activity Recognition (ML - Python)** | Classified physical activities from wearable sensor data using Logistic Regression, Random Forest, and kNN |
+| 💡 **Smart Room Light System (IoT)** | Automated lighting system using Arduino, motion sensors, and ambient light detection |
+| 📝 **Faculty Feedback System (PHP/MySQL)** | Feedback system with admin, faculty, and student panels – developed using core web technologies |
 
-> 🔗 More projects coming soon...
+> 🔗 More projects and hosted demos coming soon…
+
 
 ---
 
