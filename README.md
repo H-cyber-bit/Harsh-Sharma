@@ -1,85 +1,93 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
-<h3 align="center">B.Tech IT @ MITS | MERN Stack & Data Analytics Enthusiast</h3>
+<h3 align="center">🎓 B.Tech IT | Aspiring Full Stack & Data Analytics Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 ---
 
-### 📫 How to reach me:
+### 🙋‍♂️ About Me
+
+- 🎓 Final-year IT student at **MITS Gwalior**
+- 💻 Passionate about **web development**, **data visualization**, and **machine learning**
+- 🌱 Currently learning advanced MERN stack concepts & backend deployment
+- 📊 Love building dashboards, automation scripts, and real-world web tools
+- 🧠 Believer in “learning by doing”
+
+---
+
+### 📬 Connect With Me
+
 - 📧 harsh201130@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-sharma-354379294/)  
-- 🌐 [Portfolio](https://your-portfolio-link.com) (Coming Soon!)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-sharma-354379294/)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*
 
 ---
 
-## 🛠️ Languages & Tools
+## 🔧 Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🚀 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-
----
-
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 📁 Featured Projects
+
+Here are some of the projects I’ve built as a student to apply what I’ve learned 👇
+
+| Project | Description |
+|--------|-------------|
+| 🧘‍♂️ **Live With Yog App (GDSC Top 100)** | Figma UI + Flutter app for yoga routines and health tracking |
+| 🍕 **Pizza Sales Dashboard** | Power BI dashboard with revenue, category, and time-based sales insights |
+| 🤖 **Human Activity Recognition** | ML models using Python to detect physical activity from sensor data |
+| 💡 **Smart Room Light (IoT)** | Motion sensor Arduino project to automate room lighting |
+| 📝 **Faculty Feedback System** | Web-based system using PHP/MySQL with student/faculty/admin panels |
+
+👉 *More projects coming soon. Stay tuned!*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma&show_icons=true&theme=github_dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma&layout=compact&theme=github_dark" height="180">
 </p>
 
 ---
 
-## 🚀 Projects Showcase
+## 🌱 Learning Journey
 
-- 🧘‍♂️ [Live With Yog – GDSC Top 100 App (Figma + Flutter)](link)
-- 🍕 [Pizza Sales Dashboard – Power BI](link)
-- 📊 [Supermarket Analysis – Power BI](link)
-- 🤖 [Human Activity Recognition – Python ML](link)
-- 💡 [Smart Room Light – Arduino IoT](link)
-- 📝 [Faculty Feedback System – PHP/MySQL](link)
+- ✅ Finished multiple Power BI dashboard projects
+- ✅ Built and trained ML models using real-world data
+- 🔭 Currently building full-stack MERN apps (React + Node + MongoDB)
+- 💬 Exploring UI/UX, backend APIs, and deployment (Render, Netlify)
 
 ---
 
-## 🎓 Ongoing Learning
+## 💬 Let’s Collaborate
 
-- MERN Stack Projects (React + Node + Express + MongoDB)
-- AI/ML (TensorFlow, scikit-learn)
-- Backend APIs and Deployment (Render, Netlify, GitHub Pages)
+> I’m open to internships, project collaborations, or just tech talk ☕
 
 ---
-
-### ✨ Fun Fact
-> “I believe in building real things – from business dashboards to IoT systems, and beyond.”
 
