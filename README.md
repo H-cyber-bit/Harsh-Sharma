@@ -21,8 +21,7 @@
 ### 📬 Connect With Me
 
 - 📧 harsh201130@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-sharma-354379294/)  
-- 🌐 [Resume](https://drive.google.com/file/d/1eQRlwtWB0qaRN0Ve0E9kCetyYs-YAXBu/view?usp=sharing)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-sharma-354379294/) 
 
 ---
 
